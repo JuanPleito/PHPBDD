@@ -1,0 +1,36 @@
+table, td, th{
+    border:2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr:nth-child(odd){
+    background-color:blanchedalmond;
+}
+nav> ul{
+    display:flex;
+    list-style-type: none;
+    gap:20px;
+}
+
+nav >ul> li{
+    padding:20px;
+    background-color:bisque;
+    color:coral;
+
+}
+
+nav > ul > li > a{
+    text-decoration:none;
+    color:coral;
+}
+nav > ul > li:hover{
+    background-color:coral;
+}
+
+thead tr:first-child{
+    background-color:black;
+    color:white;
+}
