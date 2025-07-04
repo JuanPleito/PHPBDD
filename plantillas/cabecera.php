@@ -16,10 +16,7 @@ require_once("config.php");
 <nav>
 <ul>
     <li><a href='#'>Mosdtrar alumnos</a></li>
-    <li><a href='#'>Insertar alumnos</a></li>
-    <li><a href='#'>Yung hitler</A></li>
-    <li></li>
-    <li></li>
+    <li><a href='registro.php'>Insertar alumnos</a></li>
 </ul>
 </nav>
 </header>
