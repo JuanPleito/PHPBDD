@@ -3,6 +3,11 @@ define("DB_HOST", "localhost");
 define("DB_NOMBRE", "seneca");
 define("DB_USUARIO", "seneca");
 define("DB_PASSWORD", '1234'); 
+//iniciar sesion en PHP
+session_start();
+
+
+
 
 //CONECTAR la base de datos
 
